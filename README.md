@@ -8,4 +8,19 @@ I'm Zuleiha Dantijani, a full stack Software Engineer with 2 years of experience
 Want to stay in touch? You can reach me here:
 
 
+Linkedin Badge Twitter Badge Gmail Badge
+
+Want to learn more about me? Check out my website!
+
+Website Badge
+
+💻 Technologies
+JavaScript Nodejs Angular React HTML5 CSS3 MySQL MongoDB PostgreSQL Redis Git
+
+
+Github Stats
+
+Top Langs
+
+Visitor Badge
 -->
