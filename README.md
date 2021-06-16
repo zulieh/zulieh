@@ -21,6 +21,4 @@ JavaScript Nodejs Angular React HTML5 CSS3 MySQL MongoDB PostgreSQL Redis Git
 Github Stats
 
 Top Langs
-
-Visitor Badge
 -->
