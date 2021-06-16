@@ -13,7 +13,6 @@ I'm Zuleiha Dantijani, a full stack Software Engineer with 2 years of experience
 [![Gmail Badge](https://img.shields.io/badge/-tzuleiha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tzuleiha@gmail.com)](mailto:tzuleiha@gmail.com)
 
 
-
 ## 💻 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
