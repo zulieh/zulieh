@@ -1,6 +1,5 @@
 ### Holla 👋
 
-<!--
 Software Engineer | Model
 
 I'm Zuleiha Dantijani, a full stack Software Engineer with 2 years of experience building innovative solutions for globally distributed teams. I currently work at Peacock, Nigera as a Full stack Software Engineer. In my spare time, I enjoy modeling, reading, playing games.
@@ -21,4 +20,3 @@ JavaScript Nodejs Angular React HTML5 CSS3 MySQL MongoDB PostgreSQL Redis Git
 Github Stats
 
 Top Langs
--->
