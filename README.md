@@ -4,7 +4,7 @@
 
 **Software Engineer | Model**
 
-I'm Zuleiha Dantijani, a full stack Software Engineer with 2 years of experience building innovative solutions for globally distributed teams. I currently work at [Data Science Nigeria](https://www.datasciencenigeria.org/) Lagos, Nigeria as a Full stack Software Engineer. I enjoy modelling, reading, playing games.
+Fullstack software engineer with 2+ years of experience developing a demonstrated history of working in the information technology and services industry. I have a passion for developing innovative solutions that expedite the efficiency and effectiveness of organizational success, skilled in technologies such as React, Javascript and Nodejs. I enjoy modelling, reading, playing games.
 
 **Want to stay in touch? You can reach me here:**
 
